@@ -1,0 +1,1172 @@
+﻿{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hey",
+                "How are you",
+                "Is anyone there?",
+                "Hello",
+                "Good day"
+            ],
+            "responses": [
+                "Hey :-)",
+                "Hello, thanks for visiting",
+                "Hi there, what can I do for you?",
+                "Hi there, how can I help?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye"
+            ],
+            "responses": [
+                "See you later, thanks for visiting",
+                "Have a nice day",
+                "Bye! Come back again soon."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "That's helpful",
+                "Thank's a lot!"
+            ],
+            "responses": [
+                "Happy to help!",
+                "Any time!",
+                "My pleasure"
+            ]
+        },
+        {
+            "tag": "items",
+            "patterns": [
+                "Which items do you have?",
+                "What kinds of items are there?",
+                "What do you sell?"
+            ],
+            "responses": [
+                "We sell coffee and tea",
+                "We have coffee and tea"
+            ]
+        },
+        {
+            "tag": "payments",
+            "patterns": [
+                "Do you take credit cards?",
+                "Do you accept Mastercard?",
+                "Can I pay with Paypal?",
+                "Are you cash only?"
+            ],
+            "responses": [
+                "We accept VISA, Mastercard and Paypal, Mobile Money and Cadh",
+                "We accept most major credit cards, and Paypal"
+            ]
+        },
+        {
+            "tag": "delivery",
+            "patterns": [
+                "How long does delivery take?",
+                "How long does shipping take?",
+                "When do I get my delivery?"
+            ],
+            "responses": [
+                "Delivery takes 2-4 days",
+                "Shipping takes 2-4 days"
+            ]
+        },
+        {
+            "tag": "funny",
+            "patterns": [
+                "Tell me a joke!",
+                "Tell me something funny!",
+                "Do you know a joke?"
+            ],
+            "responses": [
+                "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+                "What did the buffalo say when his son left for college? Bison."
+            ]
+        },
+        {
+            "tag": "Property_1",
+            "patterns": [
+                "What is the location of the property?",
+                "Where is the property located?",
+                "Can you tell me the location of the property?"
+            ],
+            "responses": [
+                "Location: East Legon, Accra, Ghana"
+            ]
+        },
+        {
+            "tag": "Property_1_Price",
+            "patterns": [
+                "What is the current asking price?",
+                "How much does the property cost?",
+                "What is the price of the property?"
+            ],
+            "responses": [
+                "Current asking price: USD550,000"
+            ]
+        },
+        {
+            "tag": "Property_1_Bedrooms",
+            "patterns": [
+                "How many bedrooms does the property have?",
+                "Number of bedrooms?",
+                "Can you tell me the number of bedrooms?"
+            ],
+            "responses": [
+                "Number of bedrooms: 4"
+            ]
+        },
+        {
+            "tag": "Property_1_Bathrooms",
+            "patterns": [
+                "How many bathrooms does the property have?",
+                "Number of bathrooms?",
+                "Can you tell me the number of bathrooms?"
+            ],
+            "responses": [
+                "Number of bathrooms: 4"
+            ]
+        },
+        {
+            "tag": "Property_1_SwimmingPool",
+            "patterns": [
+                "Is there a swimming pool?",
+                "Does the property have a swimming pool?",
+                "Can you tell me if there's a swimming pool?"
+            ],
+            "responses": [
+                "Swimming pool: Yes"
+            ]
+        },
+        {
+            "tag": "Property_1_Gym",
+            "patterns": [
+                "Is there a gym?",
+                "Does the property have a gym?",
+                "Can you tell me if there's a gym?"
+            ],
+            "responses": [
+                "Gym: No"
+            ]
+        },
+        {
+            "tag": "Property_1_Contact",
+            "patterns": [
+                "How can I contact the agent for more information?",
+                "Contact details for the agent?",
+                "How do I reach the agent?"
+            ],
+            "responses": [
+                "Contact the agent at +233245464544 or via email at info@cbcghanaltd.com. Visit https://cbcghanaltd.com/property/spacious-4-bedroom-house-in-east-legon-accra/ for more details."
+            ]
+        },
+        {
+            "tag": "Property_2",
+            "patterns": [
+                "What is the location of the property?",
+                "Where is the property located?",
+                "Can you tell me the location of the property?"
+            ],
+            "responses": [
+                "Location: Cantonments, Accra, Ghana"
+            ]
+        },
+        {
+            "tag": "Property_2_Price",
+            "patterns": [
+                "What is the current asking price?",
+                "How much does the property cost?",
+                "What is the price of the property?"
+            ],
+            "responses": [
+                "Current asking price: USD450,000"
+            ]
+        },
+        {
+            "tag": "Property_2_Bedrooms",
+            "patterns": [
+                "How many bedrooms does the property have?",
+                "Number of bedrooms?",
+                "Can you tell me the number of bedrooms?"
+            ],
+            "responses": [
+                "Number of bedrooms: 3"
+            ]
+        },
+        {
+            "tag": "Property_2_Bathrooms",
+            "patterns": [
+                "How many bathrooms does the property have?",
+                "Number of bathrooms?",
+                "Can you tell me the number of bathrooms?"
+            ],
+            "responses": [
+                "Number of bathrooms: 3"
+            ]
+        },
+        {
+            "tag": "Property_2_SwimmingPool",
+            "patterns": [
+                "Is there a swimming pool?",
+                "Does the property have a swimming pool?",
+                "Can you tell me if there's a swimming pool?"
+            ],
+            "responses": [
+                "Swimming pool: No"
+            ]
+        },
+        {
+            "tag": "Property_2_Gym",
+            "patterns": [
+                "Is there a gym?",
+                "Does the property have a gym?",
+                "Can you tell me if there's a gym?"
+            ],
+            "responses": [
+                "Gym: No"
+            ]
+        },
+        {
+            "tag": "Property_2_Contact",
+            "patterns": [
+                "How can I contact the agent for more information?",
+                "Contact details for the agent?",
+                "How do I reach the agent?"
+            ],
+            "responses": [
+                "Contact the agent at +233245464544 or via email at info@cbcghanaltd.com. Visit https://cbcghanaltd.com/property/elegant-3-bedroom-townhouse-in-cantonments-accra/ for more details."
+            ]
+        },
+        {
+            "tag": "Property_3",
+            "patterns": [
+                "What is the location of the property?",
+                "Where is the property located?",
+                "Can you tell me the location of the property?"
+            ],
+            "responses": [
+                "Location: Labone, Accra, Ghana"
+            ]
+        },
+        {
+            "tag": "Property_3_Price",
+            "patterns": [
+                "What is the current asking price?",
+                "How much does the property cost?",
+                "What is the price of the property?"
+            ],
+            "responses": [
+                "Current asking price: USD850,000"
+            ]
+        },
+        {
+            "tag": "Property_3_Bedrooms",
+            "patterns": [
+                "How many bedrooms does the property have?",
+                "Number of bedrooms?",
+                "Can you tell me the number of bedrooms?"
+            ],
+            "responses": [
+                "Number of bedrooms: 5"
+            ]
+        },
+        {
+            "tag": "Property_3_Bathrooms",
+            "patterns": [
+                "How many bathrooms does the property have?",
+                "Number of bathrooms?",
+                "Can you tell me the number of bathrooms?"
+            ],
+            "responses": [
+                "Number of bathrooms: 5"
+            ]
+        },
+        {
+            "tag": "Property_3_SwimmingPool",
+            "patterns": [
+                "Is there a swimming pool?",
+                "Does the property have a swimming pool?",
+                "Can you tell me if there's a swimming pool?"
+            ],
+            "responses": [
+                "Swimming pool: Yes"
+            ]
+        },
+        {
+            "tag": "Property_3_Gym",
+            "patterns": [
+                "Is there a gym?",
+                "Does the property have a gym?",
+                "Can you tell me if there's a gym?"
+            ],
+            "responses": [
+                "Gym: Yes"
+            ]
+        },
+        {
+            "tag": "Property_3_Contact",
+            "patterns": [
+                "How can I contact the agent for more information?",
+                "Contact details for the agent?",
+                "How do I reach the agent?"
+            ],
+            "responses": [
+                "Contact the agent at +233245464544 or via email at info@cbcghanaltd.com. Visit https://cbcghanaltd.com/property/luxury-5-bedroom-villa-in-labone-accra/ for more details."
+            ]
+        },
+        {
+            "tag": "Property_4",
+            "patterns": [
+                "What is the location of the property?",
+                "Where is the property located?",
+                "Can you tell me the location of the property?"
+            ],
+            "responses": [
+                "Location: Osu, Accra, Ghana"
+            ]
+        },
+        {
+            "tag": "Property_4_Price",
+            "patterns": [
+                "What is the current asking price?",
+                "How much does the property cost?",
+                "What is the price of the property?"
+            ],
+            "responses": [
+                "Current asking price: USD350,000"
+            ]
+        },
+        {
+            "tag": "Property_4_Bedrooms",
+            "patterns": [
+                "How many bedrooms does the property have?",
+                "Number of bedrooms?",
+                "Can you tell me the number of bedrooms?"
+            ],
+            "responses": [
+                "Number of bedrooms: 2"
+            ]
+        },
+        {
+            "tag": "Property_4_Bathrooms",
+            "patterns": [
+                "How many bathrooms does the property have?",
+                "Number of bathrooms?",
+                "Can you tell me the number of bathrooms?"
+            ],
+            "responses": [
+                "Number of bathrooms: 2"
+            ]
+        },
+        {
+            "tag": "Property_4_SwimmingPool",
+            "patterns": [
+                "Is there a swimming pool?",
+                "Does the property have a swimming pool?",
+                "Can you tell me if there's a swimming pool?"
+            ],
+            "responses": [
+                "Swimming pool: No"
+            ]
+        },
+        {
+            "tag": "Property_4_Gym",
+            "patterns": [
+                "Is there a gym?",
+                "Does the property have a gym?",
+                "Can you tell me if there's a gym?"
+            ],
+            "responses": [
+                "Gym: No"
+            ]
+        },
+        {
+            "tag": "Property_4_Contact",
+            "patterns": [
+                "How can I contact the agent for more information?",
+                "Contact details for the agent?",
+                "How do I reach the agent?"
+            ],
+            "responses": [
+                "Contact the agent at +233245464544 or via email at info@cbcghanaltd.com. Visit https://cbcghanaltd.com/property/cozy-2-bedroom-apartment-in-osu-accra/ for more details."
+            ]
+        },
+        {
+            "tag": "Property_5",
+            "patterns": [
+                "What is the location of the property?",
+                "Where is the property located?",
+                "Can you tell me the location of the property?"
+            ],
+            "responses": [
+                "Location: Dzorwulu, Accra, Ghana"
+            ]
+        },
+        {
+            "tag": "Property_5_Price",
+            "patterns": [
+                "What is the current asking price?",
+                "How much does the property cost?",
+                "What is the price of the property?"
+            ],
+            "responses": [
+                "Current asking price: USD400,000"
+            ]
+        },
+        {
+            "tag": "Property_5_Bedrooms",
+            "patterns": [
+                "How many bedrooms does the property have?",
+                "Number of bedrooms?",
+                "Can you tell me the number of bedrooms?"
+            ],
+            "responses": [
+                "Number of bedrooms: 3"
+            ]
+        },
+        {
+            "tag": "Property_5_Bathrooms",
+            "patterns": [
+                "How many bathrooms does the property have?",
+                "Number of bathrooms?",
+                "Can you tell me the number of bathrooms?"
+            ],
+            "responses": [
+                "Number of bathrooms: 3"
+            ]
+        },
+        {
+            "tag": "Property_5_SwimmingPool",
+            "patterns": [
+                "Is there a swimming pool?",
+                "Does the property have a swimming pool?",
+                "Can you tell me if there's a swimming pool?"
+            ],
+            "responses": [
+                "Swimming pool: Yes"
+            ]
+        },
+        {
+            "tag": "Property_5_Gym",
+            "patterns": [
+                "Is there a gym?",
+                "Does the property have a gym?",
+                "Can you tell me if there's a gym?"
+            ],
+            "responses": [
+                "Gym: Yes"
+            ]
+        },
+        {
+            "tag": "Property_5_Contact",
+            "patterns": [
+                "How can I contact the agent for more information?",
+                "Contact details for the agent?",
+                "How do I reach the agent?"
+            ],
+            "responses": [
+                "Contact the agent at +233245464544 or via email at info@cbcghanaltd.com. Visit https://cbcghanaltd.com/property/modern-3-bedroom-house-in-dzorwulu-accra/ for more details."
+            ]
+        },
+        {
+            "tag": "Property_6",
+            "patterns": [
+                "What is the location of the property?",
+                "Where is the property located?",
+                "Can you tell me the location of the property?"
+            ],
+            "responses": [
+                "Location: Spintex, Accra, Ghana"
+            ]
+        },
+        {
+            "tag": "Property_6_Price",
+            "patterns": [
+                "What is the current asking price?",
+                "How much does the property cost?",
+                "What is the price of the property?"
+            ],
+            "responses": [
+                "Current asking price: USD300,000"
+            ]
+        },
+        {
+            "tag": "Property_6_Bedrooms",
+            "patterns": [
+                "How many bedrooms does the property have?",
+                "Number of bedrooms?",
+                "Can you tell me the number of bedrooms?"
+            ],
+            "responses": [
+                "Number of bedrooms: 3"
+            ]
+        },
+        {
+            "tag": "Property_6_Bathrooms",
+            "patterns": [
+                "How many bathrooms does the property have?",
+                "Number of bathrooms?",
+                "Can you tell me the number of bathrooms?"
+            ],
+            "responses": [
+                "Number of bathrooms: 2"
+            ]
+        },
+        {
+            "tag": "Property_6_SwimmingPool",
+            "patterns": [
+                "Is there a swimming pool?",
+                "Does the property have a swimming pool?",
+                "Can you tell me if there's a swimming pool?"
+            ],
+            "responses": [
+                "Swimming pool: No"
+            ]
+        },
+        {
+            "tag": "Property_6_Gym",
+            "patterns": [
+                "Is there a gym?",
+                "Does the property have a gym?",
+                "Can you tell me if there's a gym?"
+            ],
+            "responses": [
+                "Gym: No"
+            ]
+        },
+        {
+            "tag": "Property_6_Contact",
+            "patterns": [
+                "How can I contact the agent for more information?",
+                "Contact details for the agent?",
+                "How do I reach the agent?"
+            ],
+            "responses": [
+                "Contact the agent at +233245464544 or via email at info@cbcghanaltd.com. Visit https://cbcghanaltd.com/property/affordable-3-bedroom-house-in-spintex-accra/ for more details."
+            ]
+        },
+        {
+            "tag": "Property_7",
+            "patterns": [
+                "What is the location of the property?",
+                "Where is the property located?",
+                "Can you tell me the location of the property?"
+            ],
+            "responses": [
+                "Location: Tema Community 25, Tema, Ghana"
+            ]
+        },
+        {
+            "tag": "Property_7_Price",
+            "patterns": [
+                "What is the current asking price?",
+                "How much does the property cost?",
+                "What is the price of the property?"
+            ],
+            "responses": [
+                "Current asking price: USD250,000"
+            ]
+        },
+        {
+            "tag": "Property_7_Bedrooms",
+            "patterns": [
+                "How many bedrooms does the property have?",
+                "Number of bedrooms?",
+                "Can you tell me the number of bedrooms?"
+            ],
+            "responses": [
+                "Number of bedrooms: 3"
+            ]
+        },
+        {
+            "tag": "Property_7_Bathrooms",
+            "patterns": [
+                "How many bathrooms does the property have?",
+                "Number of bathrooms?",
+                "Can you tell me the number of bathrooms?"
+            ],
+            "responses": [
+                "Number of bathrooms: 2"
+            ]
+        },
+        {
+            "tag": "Property_7_SwimmingPool",
+            "patterns": [
+                "Is there a swimming pool?",
+                "Does the property have a swimming pool?",
+                "Can you tell me if there's a swimming pool?"
+            ],
+            "responses": [
+                "Swimming pool: No"
+            ]
+        },
+        {
+            "tag": "Property_7_Gym",
+            "patterns": [
+                "Is there a gym?",
+                "Does the property have a gym?",
+                "Can you tell me if there's a gym?"
+            ],
+            "responses": [
+                "Gym: No"
+            ]
+        },
+        {
+            "tag": "Property_7_Contact",
+            "patterns": [
+                "How can I contact the agent for more information?",
+                "Contact details for the agent?",
+                "How do I reach the agent?"
+            ],
+            "responses": [
+                "Contact the agent at +233245464544 or via email at info@cbcghanaltd.com. Visit https://cbcghanaltd.com/property/spacious-3-bedroom-house-in-tema-community-25/ for more details."
+            ]
+        },
+        {
+            "tag": "Property_8",
+            "patterns": [
+                "What is the location of the property?",
+                "Where is the property located?",
+                "Can you tell me the location of the property?"
+            ],
+            "responses": [
+                "Location: East Legon, Accra, Ghana"
+            ]
+        },
+        {
+            "tag": "Property_8_Price",
+            "patterns": [
+                "What is the current asking price?",
+                "How much does the property cost?",
+                "What is the price of the property?"
+            ],
+            "responses": [
+                "Current asking price: USD500,000"
+            ]
+        },
+        {
+            "tag": "Property_8_Bedrooms",
+            "patterns": [
+                "How many bedrooms does the property have?",
+                "Number of bedrooms?",
+                "Can you tell me the number of bedrooms?"
+            ],
+            "responses": [
+                "Number of bedrooms: 4"
+            ]
+        },
+        {
+            "tag": "Property_8_Bathrooms",
+            "patterns": [
+                "How many bathrooms does the property have?",
+                "Number of bathrooms?",
+                "Can you tell me the number of bathrooms?"
+            ],
+            "responses": [
+                "Number of bathrooms: 4"
+            ]
+        },
+        {
+            "tag": "Property_8_SwimmingPool",
+            "patterns": [
+                "Is there a swimming pool?",
+                "Does the property have a swimming pool?",
+                "Can you tell me if there's a swimming pool?"
+            ],
+            "responses": [
+                "Swimming pool: Yes"
+            ]
+        },
+        {
+            "tag": "Property_8_Gym",
+            "patterns": [
+                "Is there a gym?",
+                "Does the property have a gym?",
+                "Can you tell me if there's a gym?"
+            ],
+            "responses": [
+                "Gym: Yes"
+            ]
+        },
+        {
+            "tag": "Property_8_Contact",
+            "patterns": [
+                "How can I contact the agent for more information?",
+                "Contact details for the agent?",
+                "How do I reach the agent?"
+            ],
+            "responses": [
+                "Contact the agent at +233245464544 or via email at info@cbcghanaltd.com. Visit https://cbcghanaltd.com/property/luxurious-4-bedroom-house-in-east-legon-accra/ for more details."
+            ]
+        },
+        {
+            "tag": "Property_9",
+            "patterns": [
+                "What is the location of the property?",
+                "Where is the property located?",
+                "Can you tell me the location of the property?"
+            ],
+            "responses": [
+                "Location: Cantonments, Accra, Ghana"
+            ]
+        },
+        {
+            "tag": "Property_9_Price",
+            "patterns": [
+                "What is the current asking price?",
+                "How much does the property cost?",
+                "What is the price of the property?"
+            ],
+            "responses": [
+                "Current asking price: USD600,000"
+            ]
+        },
+        {
+            "tag": "Property_9_Bedrooms",
+            "patterns": [
+                "How many bedrooms does the property have?",
+                "Number of bedrooms?",
+                "Can you tell me the number of bedrooms?"
+            ],
+            "responses": [
+                "Number of bedrooms: 4"
+            ]
+        },
+        {
+            "tag": "Property_9_Bathrooms",
+            "patterns": [
+                "How many bathrooms does the property have?",
+                "Number of bathrooms?",
+                "Can you tell me the number of bathrooms?"
+            ],
+            "responses": [
+                "Number of bathrooms: 5"
+            ]
+        },
+        {
+            "tag": "Property_9_SwimmingPool",
+            "patterns": [
+                "Is there a swimming pool?",
+                "Does the property have a swimming pool?",
+                "Can you tell me if there's a swimming pool?"
+            ],
+            "responses": [
+                "Swimming pool: Yes"
+            ]
+        },
+        {
+            "tag": "Property_9_Gym",
+            "patterns": [
+                "Is there a gym?",
+                "Does the property have a gym?",
+                "Can you tell me if there's a gym?"
+            ],
+            "responses": [
+                "Gym: Yes"
+            ]
+        },
+        {
+            "tag": "Property_9_Contact",
+            "patterns": [
+                "How can I contact the agent for more information?",
+                "Contact details for the agent?",
+                "How do I reach the agent?"
+            ],
+            "responses": [
+                "Contact the agent at +233245464544 or via email at info@cbcghanaltd.com. Visit https://cbcghanaltd.com/property/modern-4-bedroom-house-in-cantonments-accra/ for more details."
+            ]
+        },
+        {
+            "tag": "Property_10",
+            "patterns": [
+                "What is the location of the property?",
+                "Where is the property located?",
+                "Can you tell me the location of the property?"
+            ],
+            "responses": [
+                "Location: Labone, Accra, Ghana"
+            ]
+        },
+        {
+            "tag": "Property_10_Price",
+            "patterns": [
+                "What is the current asking price?",
+                "How much does the property cost?",
+                "What is the price of the property?"
+            ],
+            "responses": [
+                "Current asking price: USD450,000"
+            ]
+        },
+        {
+            "tag": "Property_10_Bedrooms",
+            "patterns": [
+                "How many bedrooms does the property have?",
+                "Number of bedrooms?",
+                "Can you tell me the number of bedrooms?"
+            ],
+            "responses": [
+                "Number of bedrooms: 3"
+            ]
+        },
+        {
+            "tag": "Property_10_Bathrooms",
+            "patterns": [
+                "How many bathrooms does the property have?",
+                "Number of bathrooms?",
+                "Can you tell me the number of bathrooms?"
+            ],
+            "responses": [
+                "Number of bathrooms: 3"
+            ]
+        },
+        {
+            "tag": "Property_10_SwimmingPool",
+            "patterns": [
+                "Is there a swimming pool?",
+                "Does the property have a swimming pool?",
+                "Can you tell me if there's a swimming pool?"
+            ],
+            "responses": [
+                "Swimming pool: Yes"
+            ]
+        },
+        {
+            "tag": "Property_10_Gym",
+            "patterns": [
+                "Is there a gym?",
+                "Does the property have a gym?",
+                "Can you tell me if there's a gym?"
+            ],
+            "responses": [
+                "Gym: Yes"
+            ]
+        },
+        {
+            "tag": "Property_10_Contact",
+            "patterns": [
+                "How can I contact the agent for more information?",
+                "Contact details for the agent?",
+                "How do I reach the agent?"
+            ],
+            "responses": [
+                "Contact the agent at +233245464544 or via email at info@cbcghanaltd.com. Visit https://cbcghanaltd.com/property/elegant-3-bedroom-house-in-labone-accra/ for more details."
+            ]
+        },
+        {
+            "tag": "Property_11",
+            "patterns": [
+                "What is the location of the property?",
+                "Where is the property located?",
+                "Can you tell me the location of the property?"
+            ],
+            "responses": [
+                "Location: Ridge, Accra, Ghana"
+            ]
+        },
+        {
+            "tag": "Property_11_Price",
+            "patterns": [
+                "What is the current asking price?",
+                "How much does the property cost?",
+                "What is the price of the property?"
+            ],
+            "responses": [
+                "Current asking price: USD700,000"
+            ]
+        },
+        {
+            "tag": "Property_11_Bedrooms",
+            "patterns": [
+                "How many bedrooms does the property have?",
+                "Number of bedrooms?",
+                "Can you tell me the number of bedrooms?"
+            ],
+            "responses": [
+                "Number of bedrooms: 5"
+            ]
+        },
+        {
+            "tag": "Property_11_Bathrooms",
+            "patterns": [
+                "How many bathrooms does the property have?",
+                "Number of bathrooms?",
+                "Can you tell me the number of bathrooms?"
+            ],
+            "responses": [
+                "Number of bathrooms: 6"
+            ]
+        },
+        {
+            "tag": "Property_11_SwimmingPool",
+            "patterns": [
+                "Is there a swimming pool?",
+                "Does the property have a swimming pool?",
+                "Can you tell me if there's a swimming pool?"
+            ],
+            "responses": [
+                "Swimming pool: Yes"
+            ]
+        },
+        {
+            "tag": "Property_11_Gym",
+            "patterns": [
+                "Is there a gym?",
+                "Does the property have a gym?",
+                "Can you tell me if there's a gym?"
+            ],
+            "responses": [
+                "Gym: Yes"
+            ]
+        },
+        {
+            "tag": "Property_11_Contact",
+            "patterns": [
+                "How can I contact the agent for more information?",
+                "Contact details for the agent?",
+                "How do I reach the agent?"
+            ],
+            "responses": [
+                "Contact the agent at +233245464544 or via email at info@cbcghanaltd.com. Visit https://cbcghanaltd.com/property/luxurious-5-bedroom-house-in-ridge-accra/ for more details."
+            ]
+        },
+        {
+            "tag": "Property_12",
+            "patterns": [
+                "What is the location of the property?",
+                "Where is the property located?",
+                "Can you tell me the location of the property?"
+            ],
+            "responses": [
+                "Location: Dzorwulu, Accra, Ghana"
+            ]
+        },
+        {
+            "tag": "Property_12_Price",
+            "patterns": [
+                "What is the current asking price?",
+                "How much does the property cost?",
+                "What is the price of the property?"
+            ],
+            "responses": [
+                "Current asking price: USD800,000"
+            ]
+        },
+        {
+            "tag": "Property_12_Bedrooms",
+            "patterns": [
+                "How many bedrooms does the property have?",
+                "Number of bedrooms?",
+                "Can you tell me the number of bedrooms?"
+            ],
+            "responses": [
+                "Number of bedrooms: 5"
+            ]
+        },
+        {
+            "tag": "Property_12_Bathrooms",
+            "patterns": [
+                "How many bathrooms does the property have?",
+                "Number of bathrooms?",
+                "Can you tell me the number of bathrooms?"
+            ],
+            "responses": [
+                "Number of bathrooms: 5"
+            ]
+        },
+        {
+            "tag": "Property_12_SwimmingPool",
+            "patterns": [
+                "Is there a swimming pool?",
+                "Does the property have a swimming pool?",
+                "Can you tell me if there's a swimming pool?"
+            ],
+            "responses": [
+                "Swimming pool: Yes"
+            ]
+        },
+        {
+            "tag": "Property_12_Gym",
+            "patterns": [
+                "Is there a gym?",
+                "Does the property have a gym?",
+                "Can you tell me if there's a gym?"
+            ],
+            "responses": [
+                "Gym: Yes"
+            ]
+        },
+        {
+            "tag": "Property_12_Contact",
+            "patterns": [
+                "How can I contact the agent for more information?",
+                "Contact details for the agent?",
+                "How do I reach the agent?"
+            ],
+            "responses": [
+                "Contact the agent at +233245464544 or via email at info@cbcghanaltd.com. Visit https://cbcghanaltd.com/property/stunning-5-bedroom-house-in-dzorwulu-accra/ for more details."
+            ]
+        },
+        {
+            "tag": "Property_13",
+            "patterns": [
+                "What is the location of the property?",
+                "Where is the property located?",
+                "Can you tell me the location of the property?"
+            ],
+            "responses": [
+                "Location: Osu, Accra, Ghana"
+            ]
+        },
+        {
+            "tag": "Property_13_Price",
+            "patterns": [
+                "What is the current asking price?",
+                "How much does the property cost?",
+                "What is the price of the property?"
+            ],
+            "responses": [
+                "Current asking price: USD300,000"
+            ]
+        },
+        {
+            "tag": "Property_13_Bedrooms",
+            "patterns": [
+                "How many bedrooms does the property have?",
+                "Number of bedrooms?",
+                "Can you tell me the number of bedrooms?"
+            ],
+            "responses": [
+                "Number of bedrooms: 2"
+            ]
+        },
+        {
+            "tag": "Property_13_Bathrooms",
+            "patterns": [
+                "How many bathrooms does the property have?",
+                "Number of bathrooms?",
+                "Can you tell me the number of bathrooms?"
+            ],
+            "responses": [
+                "Number of bathrooms: 2"
+            ]
+        },
+        {
+            "tag": "Property_13_SwimmingPool",
+            "patterns": [
+                "Is there a swimming pool?",
+                "Does the property have a swimming pool?",
+                "Can you tell me if there's a swimming pool?"
+            ],
+            "responses": [
+                "Swimming pool: No"
+            ]
+        },
+        {
+            "tag": "Property_13_Gym",
+            "patterns": [
+                "Is there a gym?",
+                "Does the property have a gym?",
+                "Can you tell me if there's a gym?"
+            ],
+            "responses": [
+                "Gym: No"
+            ]
+        },
+        {
+            "tag": "Property_13_Contact",
+            "patterns": [
+                "How can I contact the agent for more information?",
+                "Contact details for the agent?",
+                "How do I reach the agent?"
+            ],
+            "responses": [
+                "Contact the agent at +233245464544 or via email at info@cbcghanaltd.com. Visit https://cbcghanaltd.com/property/cozy-2-bedroom-apartment-in-osu-accra/ for more details."
+            ]
+        },
+        {
+            "tag": "Property_14",
+            "patterns": [
+                "What is the location of the property?",
+                "Where is the property located?",
+                "Can you tell me the location of the property?"
+            ],
+            "responses": [
+                "Location: Airport Residential Area, Accra, Ghana"
+            ]
+        },
+        {
+            "tag": "Property_14_Price",
+            "patterns": [
+                "What is the current asking price?",
+                "How much does the property cost?",
+                "What is the price of the property?"
+            ],
+            "responses": [
+                "Current asking price: USD1,000,000"
+            ]
+        },
+        {
+            "tag": "Property_14_Bedrooms",
+            "patterns": [
+                "How many bedrooms does the property have?",
+                "Number of bedrooms?",
+                "Can you tell me the number of bedrooms?"
+            ],
+            "responses": [
+                "Number of bedrooms: 6"
+            ]
+        },
+        {
+            "tag": "Property_14_Bathrooms",
+            "patterns": [
+                "How many bathrooms does the property have?",
+                "Number of bathrooms?",
+                "Can you tell me the number of bathrooms?"
+            ],
+            "responses": [
+                "Number of bathrooms: 7"
+            ]
+        },
+        {
+            "tag": "Property_14_SwimmingPool",
+            "patterns": [
+                "Is there a swimming pool?",
+                "Does the property have a swimming pool?",
+                "Can you tell me if there's a swimming pool?"
+            ],
+            "responses": [
+                "Swimming pool: Yes"
+            ]
+        },
+        {
+            "tag": "Property_14_Gym",
+            "patterns": [
+                "Is there a gym?",
+                "Does the property have a gym",
+                "Can you tell me if there's a gym?"
+            ]
+        },
+        {
+            "tag": "Property_14_Contact",
+            "patterns": [
+                "How can I contact the agent for more information?",
+                "Contact details for the agent?",
+                "How do I reach the agent?"
+            ],
+            "responses": [
+                "Contact the agent at +233245464544"
+            ]
+        }
+    ]
+}
